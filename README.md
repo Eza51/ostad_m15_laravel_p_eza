@@ -16,7 +16,7 @@ Watch the project demonstration video here:
 
 [Project Demo Video]
 (https://drive.google.com/file/d/1xTpby4hObh9N8b44se0fI4b-8_tLSm1M/view?usp=sharing)
-(https://www.youtube.com/watch?v=E6NO0rgFub4)
+(https://youtu.be/DQOWHX8r31E)
 
 
 ## 🛠️ Setup Instructions
