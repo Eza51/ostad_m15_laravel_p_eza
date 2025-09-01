@@ -57,7 +57,7 @@ php artisan migrate
 php artisan serve
 
 
-Access the application at http://localhost:8000.
+
 
 📁 Project Structure
 
